@@ -24,4 +24,5 @@
 
 . The login box should have a button. (Submit, Log In, etc)
 
-  
+  ### 3. Image
+![My Image](Image/Log-In.png)
