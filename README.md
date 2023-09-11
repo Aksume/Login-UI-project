@@ -5,6 +5,7 @@
 * Css
  * style.css
  * index.html
+ * Image
  * README.md
 
  ## 2.  Requirements:
