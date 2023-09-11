@@ -1,14 +1,15 @@
-# Login-UI-project-One-Bay Vally Teech
-
+# Login-UI-project-One-Bay Valley Tech
 
 ## 1. The project file Structure
-* Css
- * style.css
- * index.html
- * README.md
 
- ## 2.  Requirements:
- Use HTML and CSS to create your project.
+- Css
+- style.css
+- index.html
+- README.md
+
+## 2. Requirements:
+
+Use HTML and CSS to create your project.
 
 . Push your project to a repository and turn in your repo link for a grade
 
@@ -24,5 +25,6 @@
 
 . The login box should have a button. (Submit, Log In, etc)
 
-  ### 3. Image
+### 3. Image
+
 <!-- ![My Image](Image/Log-In.png) -->

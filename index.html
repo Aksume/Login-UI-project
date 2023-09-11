@@ -14,10 +14,12 @@
     <form  class="container" action="#" method="get">
         <div class="login-box">
             <header>Sign In</header>
-          
             <input type="text" placeholder="Username" required class="login-input">
             <input type="password" placeholder="Password" required class="login-input">
-            
+            <div class="remember-container">
+                <input type="checkbox" id="remember" name="remember" class="login-remember">
+                <label for="remember" class="remember-label">Remember me</label>
+            </div>
             <button type="login" class="login-button">Log In</button>
         </div>
     </form>
