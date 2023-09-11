@@ -1,13 +1,11 @@
-# Login-UI-project-One-Bay Valley Tech
+# Login-UI-project-One-Bay Vally Teech
+
 
 ## 1. The project file Structure
-
-- Css
-- style.css
-- index.html
-- README.md
-
-## 2. Requirements:
+* Css
+ * style.css
+ * index.html
+ * README.md
 
 Use HTML and CSS to create your project.
 
