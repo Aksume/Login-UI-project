@@ -5,6 +5,7 @@
 * Css
  * style.css
  * index.html
+ * Image
  * README.md
 
 Use HTML and CSS to create your project.
