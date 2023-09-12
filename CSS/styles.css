@@ -1,0 +1,76 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../Image/fw-bg-gradient.png');
+    background-size: cover; /* Covers the entire viewport */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image */
+    background-attachment: fixed; /* Makes the background image fixed during scrolling */
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+header {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+.login-box {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 20px;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;  /* Center the header and other elements horizontally */
+    background-image: url('../Image/images.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.login-input {
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.login-button {
+    padding: 10px;
+    background-color: #00ff91;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.login-button:hover {
+    background-color: #1e5f71;
+}
+
+.remember-container {
+    display: flex;
+    align-self: flex-start;/* Vertically align the checkbox and label */
+    margin-bottom: 15px;/* Add some spacing below before the button */
+    padding:10px;
+}
+
+.login-remember {
+cursor: pointer;
+}
+
+.remember-label {
+    cursor: pointer;
+    user-select: none;
+    font-size: 12px;
+}
