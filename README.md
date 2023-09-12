@@ -26,4 +26,4 @@ Use HTML and CSS to create your project.
 
 ### 3. Image
 
-<!-- ![My Image](Image/Log-In.png) -->
+![My Image](Image/Log-In.png)
