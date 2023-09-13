@@ -8,6 +8,8 @@
  * Image
  * README.md
 
+## Requirements:
+
 Use HTML and CSS to create your project.
 
 . Push your project to a repository and turn in your repo link for a grade
@@ -24,6 +26,6 @@ Use HTML and CSS to create your project.
 
 . The login box should have a button. (Submit, Log In, etc)
 
-### 3. Image
+### 3. Screenshot:
 
 ![My Image](Image/Log-In.png)
