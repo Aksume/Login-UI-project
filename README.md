@@ -1,4 +1,5 @@
-# Login-UI-project-One-Bay Valley Tech
+# Login-UI-project-One-Bay Vally Teech
+
 
 ## 1. The project file Structure
 * Css
@@ -7,23 +8,25 @@
  * Image
  * README.md
 
-Use HTML and CSS to create your project.
+## Requirements:
 
-. Push your project to a repository and turn in your repo link for a grade
+ - Use HTML and CSS to create your project.
 
-. Remember, each homework assignment goes in a separate repo. Please don’t send me a repo that other assignments and your Login UI inside of it, because it will be time-consuming to grade
+- Push your project to a repository and turn in your repo link for a grade
 
-. The login box should have a minimum size, and the input fields or text in the box should not leak out of the box.
+- Remember, each homework assignment goes in a separate repo. Please don’t send me a repo that other assignments and your Login UI inside of it, because it will be time-consuming to grade
 
-. The login box should have box-shadow and rounded edges.
+- The login box should have a minimum size, and the input fields or text in the box should not leak out of the box.
 
-.The login box should have a username and password input field, with placeholder text like in the photo.
+- The login box should have box-shadow and rounded edges.
 
-. Please make sure text entered into the password field is hidden (with asterisks or circles)
+- The login box should have a username and password input field, with placeholder text like in the photo.
 
-. The login box should have a button. (Submit, Log In, etc)
+- Please make sure text entered into the password field is hidden (with asterisks or circles)
 
-### 3. Image
+- The login box should have a button. (Submit, Log In, etc)
+
+### 3. Screenshot:
 
 ![My Image](Image/Log-In.png)
 
