@@ -1,4 +1,4 @@
-# Login-UI-project-One-Bay Vally Teech
+# Login-UI-project-One-Bay Valley Tech
 
 
 ## 1. The project file Structure
@@ -10,7 +10,7 @@
 
 ## Requirements:
 
-Use HTML and CSS to create your project.
+ - Use HTML and CSS to create your project.
 
 - Push your project to a repository and turn in your repo link for a grade
 
